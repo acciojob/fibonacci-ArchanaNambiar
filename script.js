@@ -1,8 +1,8 @@
 function fibonacci(num) {
 // your code here
 	let n1 = 0, n2 = 1;
-	if(num==1) return n2;
-	if(num==2) return n1;
+	if(num==1) return n1;
+	if(num==2) return n2;
 for (let i = 3; i <= num; i++) 
 {
     
